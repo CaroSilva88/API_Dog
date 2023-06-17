@@ -42,7 +42,3 @@ Si deseas contribuir a este proyecto, siéntete libre de hacer un fork del repos
 ## Soporte
 
 Si tienes alguna pregunta o encuentras algún problema mientras utilizas este proyecto, puedes crear un issue en el repositorio y te ayudaré lo antes posible.
-
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para obtener más información.![image](https://github.com/CaroSilva88/Perritos/assets/74432966/cf520358-86ab-4fc6-846d-dacfcb0abc1e)
